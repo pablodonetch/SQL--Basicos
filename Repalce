@@ -1,0 +1,1 @@
+UPDATE Tabla SET columna=Replace(columna, 'string original','string final')
